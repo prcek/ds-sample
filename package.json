@@ -1,0 +1,17 @@
+{
+  "name": "prcek-ds-sample",
+  "version": "1.0.0",
+  "main": "lib/src/index.js",
+  "typings": "lib/src/index.d.ts",
+  "scripts": {
+    "compile": "tsc",
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  }
+}
