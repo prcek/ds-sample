@@ -1,6 +1,7 @@
 {
   "name": "prcek-ds-sample",
   "version": "1.0.0",
+  "description": "A simple project to test Typescript",
   "repository": "github.com:prcek/ds-sample",
   "main": "lib/src/index.js",
   "typings": "lib/src/index.d.ts",
@@ -9,6 +10,7 @@
     "test": "jest"
   },
   "license": "MIT",
+  "author": "Prcek",
   "devDependencies": {
     "@types/jest": "^23.3.10",
     "jest": "^23.6.0",
