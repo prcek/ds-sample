@@ -4,7 +4,7 @@
   "description": "A simple project to test Typescript",
   "repository": {
     "type": "git",
-    "url:": "https://github.com/prcek/ds-sample.git"
+    "url:": "https://github.com/prcek/ds-sample"
   },
   "main": "lib/src/index.js",
   "typings": "lib/src/index.d.ts",
