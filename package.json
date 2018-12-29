@@ -1,6 +1,7 @@
 {
   "name": "prcek-ds-sample",
   "version": "1.0.0",
+  "repository": "github.com:prcek/ds-sample",
   "main": "lib/src/index.js",
   "typings": "lib/src/index.d.ts",
   "scripts": {
